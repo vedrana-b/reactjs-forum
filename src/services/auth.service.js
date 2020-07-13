@@ -31,11 +31,10 @@ export function addUser(username, password) {
 
 export function login(username, password) {
     return new Promise((resolve, reject) => {
-        const users = JSON.parse(localStorage.getItem('users')) || [];
-        const user = users.find(user => user.username === username);
-        const hashedPassword = user.password;
+        const storedUsers = JSON.parse(localStorage.getItem('users')) || [];
+        let user = storedUsers.find(user => user.username === username);
 
-        if (user && comparePassword(password, hashedPassword)) {
+        if (user && comparePassword(password, user.password)) {
             localStorage.setItem('access_token', username);
             resolve({
                 status: 200

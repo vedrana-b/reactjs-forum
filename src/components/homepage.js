@@ -4,8 +4,6 @@ import { Container, Header, Button } from 'semantic-ui-react'
 import Topics from "./topics";
 import Navigation from "./navigation";
 
-
-
 const Homepage = ({ mobile }) => {
     return (
         <Container fluid className="main-container">

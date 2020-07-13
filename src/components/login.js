@@ -2,7 +2,6 @@ import React, { useState } from 'react'
 import { Button, Form, Modal, Message } from 'semantic-ui-react'
 import * as authService from "../services/auth.service"
 
-
 const LogIn = (props) => {
     const [user, setUsers] = useState({ username: '', password: '' });
     const [modal, setModal] = useState({ modalOpen: false });
@@ -39,6 +38,8 @@ const LogIn = (props) => {
                 props.onLogin();
             } else if (response.status === 401) {
                 setMessage({ ...message, login: { negative: true, content: 'Username or password are not correct' } })
+            } else if (response.status === 404) {
+                setMessage({ ...message, login: { negative: true, content: 'User does not exist' } })
             }
             console.log(user);
         });
