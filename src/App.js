@@ -13,7 +13,7 @@ import TopicPage from './components/topic-page';
 function App() {
     return (
         <div >
-            <Router>
+            <Router basename={process.env.PUBLIC_URL}>
                 <Switch>
                     <Route path="/" exact component={Homepage}></Route>
                     <Route path="/question/:topicId" component={TopicPage}></Route>

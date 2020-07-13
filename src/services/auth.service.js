@@ -31,7 +31,7 @@ export function addUser(username, password) {
 
 export function login(username, password) {
     return new Promise((resolve, reject) => {
-        const users = JSON.parse(localStorage.getItem('users') || []);
+        const users = JSON.parse(localStorage.getItem('users')) || [];
         const user = users.find(user => user.username === username);
         const hashedPassword = user.password;
 
