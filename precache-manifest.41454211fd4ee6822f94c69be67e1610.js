@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7189e9388970aaec21ff51bddff87aee",
+    "revision": "93b6ec4929efe2d9b3ea860b91be3a67",
     "url": "/r-forum/index.html"
   },
   {
-    "revision": "2e369e0832887d36fcb1",
+    "revision": "6e9573df1ecb1718d447",
     "url": "/r-forum/static/css/2.fdeaa007.chunk.css"
   },
   {
-    "revision": "dcff023c50dff10a97e8",
+    "revision": "e6cdb7a106b54843ac5e",
     "url": "/r-forum/static/css/main.50376ba7.chunk.css"
   },
   {
-    "revision": "2e369e0832887d36fcb1",
-    "url": "/r-forum/static/js/2.04417b5b.chunk.js"
+    "revision": "6e9573df1ecb1718d447",
+    "url": "/r-forum/static/js/2.2c97f26f.chunk.js"
   },
   {
     "revision": "4d47ffde3dc69784e8e23fd910817ef8",
-    "url": "/r-forum/static/js/2.04417b5b.chunk.js.LICENSE.txt"
+    "url": "/r-forum/static/js/2.2c97f26f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dcff023c50dff10a97e8",
-    "url": "/r-forum/static/js/main.9c8c6669.chunk.js"
+    "revision": "e6cdb7a106b54843ac5e",
+    "url": "/r-forum/static/js/main.7cb8691d.chunk.js"
   },
   {
     "revision": "9458c9dd9c2ddfb39f8f",

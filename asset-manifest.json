@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/r-forum/static/css/main.50376ba7.chunk.css",
-    "main.js": "/r-forum/static/js/main.9c8c6669.chunk.js",
-    "main.js.map": "/r-forum/static/js/main.9c8c6669.chunk.js.map",
+    "main.js": "/r-forum/static/js/main.7cb8691d.chunk.js",
+    "main.js.map": "/r-forum/static/js/main.7cb8691d.chunk.js.map",
     "runtime-main.js": "/r-forum/static/js/runtime-main.55c01fee.js",
     "runtime-main.js.map": "/r-forum/static/js/runtime-main.55c01fee.js.map",
     "static/css/2.fdeaa007.chunk.css": "/r-forum/static/css/2.fdeaa007.chunk.css",
-    "static/js/2.04417b5b.chunk.js": "/r-forum/static/js/2.04417b5b.chunk.js",
-    "static/js/2.04417b5b.chunk.js.map": "/r-forum/static/js/2.04417b5b.chunk.js.map",
+    "static/js/2.2c97f26f.chunk.js": "/r-forum/static/js/2.2c97f26f.chunk.js",
+    "static/js/2.2c97f26f.chunk.js.map": "/r-forum/static/js/2.2c97f26f.chunk.js.map",
     "index.html": "/r-forum/index.html",
-    "precache-manifest.a1a99b4debab985754a6660245dd163a.js": "/r-forum/precache-manifest.a1a99b4debab985754a6660245dd163a.js",
+    "precache-manifest.41454211fd4ee6822f94c69be67e1610.js": "/r-forum/precache-manifest.41454211fd4ee6822f94c69be67e1610.js",
     "service-worker.js": "/r-forum/service-worker.js",
     "static/css/2.fdeaa007.chunk.css.map": "/r-forum/static/css/2.fdeaa007.chunk.css.map",
     "static/css/main.50376ba7.chunk.css.map": "/r-forum/static/css/main.50376ba7.chunk.css.map",
-    "static/js/2.04417b5b.chunk.js.LICENSE.txt": "/r-forum/static/js/2.04417b5b.chunk.js.LICENSE.txt",
+    "static/js/2.2c97f26f.chunk.js.LICENSE.txt": "/r-forum/static/js/2.2c97f26f.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/r-forum/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.55c01fee.js",
     "static/css/2.fdeaa007.chunk.css",
-    "static/js/2.04417b5b.chunk.js",
+    "static/js/2.2c97f26f.chunk.js",
     "static/css/main.50376ba7.chunk.css",
-    "static/js/main.9c8c6669.chunk.js"
+    "static/js/main.7cb8691d.chunk.js"
   ]
 }
