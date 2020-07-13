@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/r-forum/static/css/main.50376ba7.chunk.css",
-    "main.js": "/r-forum/static/js/main.d430cbde.chunk.js",
-    "main.js.map": "/r-forum/static/js/main.d430cbde.chunk.js.map",
-    "runtime-main.js": "/r-forum/static/js/runtime-main.55c01fee.js",
-    "runtime-main.js.map": "/r-forum/static/js/runtime-main.55c01fee.js.map",
-    "static/css/2.fdeaa007.chunk.css": "/r-forum/static/css/2.fdeaa007.chunk.css",
-    "static/js/2.04417b5b.chunk.js": "/r-forum/static/js/2.04417b5b.chunk.js",
-    "static/js/2.04417b5b.chunk.js.map": "/r-forum/static/js/2.04417b5b.chunk.js.map",
-    "index.html": "/r-forum/index.html",
-    "precache-manifest.f4ba675d83c4be10a16179b1f4d22fbc.js": "/r-forum/precache-manifest.f4ba675d83c4be10a16179b1f4d22fbc.js",
-    "service-worker.js": "/r-forum/service-worker.js",
-    "static/css/2.fdeaa007.chunk.css.map": "/r-forum/static/css/2.fdeaa007.chunk.css.map",
-    "static/css/main.50376ba7.chunk.css.map": "/r-forum/static/css/main.50376ba7.chunk.css.map",
-    "static/js/2.04417b5b.chunk.js.LICENSE.txt": "/r-forum/static/js/2.04417b5b.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/r-forum/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/reactjs-forum/static/css/main.0f66c407.chunk.css",
+    "main.js": "/reactjs-forum/static/js/main.7b09e814.chunk.js",
+    "main.js.map": "/reactjs-forum/static/js/main.7b09e814.chunk.js.map",
+    "runtime-main.js": "/reactjs-forum/static/js/runtime-main.bcdc38d8.js",
+    "runtime-main.js.map": "/reactjs-forum/static/js/runtime-main.bcdc38d8.js.map",
+    "static/css/2.a70a036b.chunk.css": "/reactjs-forum/static/css/2.a70a036b.chunk.css",
+    "static/js/2.882897f2.chunk.js": "/reactjs-forum/static/js/2.882897f2.chunk.js",
+    "static/js/2.882897f2.chunk.js.map": "/reactjs-forum/static/js/2.882897f2.chunk.js.map",
+    "index.html": "/reactjs-forum/index.html",
+    "precache-manifest.479190c64e49993ae836670ce186a9bf.js": "/reactjs-forum/precache-manifest.479190c64e49993ae836670ce186a9bf.js",
+    "service-worker.js": "/reactjs-forum/service-worker.js",
+    "static/css/2.a70a036b.chunk.css.map": "/reactjs-forum/static/css/2.a70a036b.chunk.css.map",
+    "static/css/main.0f66c407.chunk.css.map": "/reactjs-forum/static/css/main.0f66c407.chunk.css.map",
+    "static/js/2.882897f2.chunk.js.LICENSE.txt": "/reactjs-forum/static/js/2.882897f2.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/reactjs-forum/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.55c01fee.js",
-    "static/css/2.fdeaa007.chunk.css",
-    "static/js/2.04417b5b.chunk.js",
-    "static/css/main.50376ba7.chunk.css",
-    "static/js/main.d430cbde.chunk.js"
+    "static/js/runtime-main.bcdc38d8.js",
+    "static/css/2.a70a036b.chunk.css",
+    "static/js/2.882897f2.chunk.js",
+    "static/css/main.0f66c407.chunk.css",
+    "static/js/main.7b09e814.chunk.js"
   ]
 }
