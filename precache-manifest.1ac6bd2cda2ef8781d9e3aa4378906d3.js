@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b16a84b6b2a47f374b8a2f513f523543",
+    "revision": "8dde57a47565aed5672dcb8b91b47b1e",
     "url": "/reactjs-forum/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactjs-forum/static/css/2.a70a036b.chunk.css"
   },
   {
-    "revision": "d580f16997666c19a4d3",
+    "revision": "e93220f1c11784751bd6",
     "url": "/reactjs-forum/static/css/main.0f66c407.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactjs-forum/static/js/2.882897f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d580f16997666c19a4d3",
-    "url": "/reactjs-forum/static/js/main.e96be810.chunk.js"
+    "revision": "e93220f1c11784751bd6",
+    "url": "/reactjs-forum/static/js/main.bdfdfacd.chunk.js"
   },
   {
     "revision": "ebd7ea69c009228448db",

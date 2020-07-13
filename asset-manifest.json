@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactjs-forum/static/css/main.0f66c407.chunk.css",
-    "main.js": "/reactjs-forum/static/js/main.e96be810.chunk.js",
-    "main.js.map": "/reactjs-forum/static/js/main.e96be810.chunk.js.map",
+    "main.js": "/reactjs-forum/static/js/main.bdfdfacd.chunk.js",
+    "main.js.map": "/reactjs-forum/static/js/main.bdfdfacd.chunk.js.map",
     "runtime-main.js": "/reactjs-forum/static/js/runtime-main.bcdc38d8.js",
     "runtime-main.js.map": "/reactjs-forum/static/js/runtime-main.bcdc38d8.js.map",
     "static/css/2.a70a036b.chunk.css": "/reactjs-forum/static/css/2.a70a036b.chunk.css",
     "static/js/2.882897f2.chunk.js": "/reactjs-forum/static/js/2.882897f2.chunk.js",
     "static/js/2.882897f2.chunk.js.map": "/reactjs-forum/static/js/2.882897f2.chunk.js.map",
     "index.html": "/reactjs-forum/index.html",
-    "precache-manifest.dc71635e6608da55ea8aef9ebc4c182a.js": "/reactjs-forum/precache-manifest.dc71635e6608da55ea8aef9ebc4c182a.js",
+    "precache-manifest.1ac6bd2cda2ef8781d9e3aa4378906d3.js": "/reactjs-forum/precache-manifest.1ac6bd2cda2ef8781d9e3aa4378906d3.js",
     "service-worker.js": "/reactjs-forum/service-worker.js",
     "static/css/2.a70a036b.chunk.css.map": "/reactjs-forum/static/css/2.a70a036b.chunk.css.map",
     "static/css/main.0f66c407.chunk.css.map": "/reactjs-forum/static/css/main.0f66c407.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.a70a036b.chunk.css",
     "static/js/2.882897f2.chunk.js",
     "static/css/main.0f66c407.chunk.css",
-    "static/js/main.e96be810.chunk.js"
+    "static/js/main.bdfdfacd.chunk.js"
   ]
 }
