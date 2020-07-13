@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import { Comment } from 'semantic-ui-react'
 
 const Answer = (props) => {

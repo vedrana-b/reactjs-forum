@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect } from "react";
 import {
     Link
 } from "react-router-dom";
@@ -38,6 +38,8 @@ const Topics = () => {
         if (newTopic.title.length < 5) {
             setError({ ...error, textLength: { message: "Minimum is 5 letters" } });
             return;
+        } else if (newTopic.title.length > 200) {
+            setError({ ...error, textLength: { message: "Maximum is 200 letters" } });
         } else {
             setError({ ...error, textLength: false });
         }

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import { Button, Form, Modal } from 'semantic-ui-react'
 import * as authService from "../services/auth.service";
 const Joi = require('@hapi/joi');

@@ -125,7 +125,7 @@ module.exports.getTopic = (topicId) => {
 module.exports.addTopic = (topic) => {
     return new Promise((resolve, reject) => {
         const topics = JSON.parse(localStorage.getItem("topics")) || [];
-        if (topic.title.length < 5) {
+        if (topic.title.length < 5 || topic.title.length > 200) {
             return;
         } else {
             topics.push(topic);

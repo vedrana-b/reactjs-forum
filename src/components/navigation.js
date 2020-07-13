@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from "react";
-import "./homepage.scss";
+import React, { useState } from "react";
 import SignUp from "./sign-up";
 import LogIn from "./login";
 import * as authService from "../services/auth.service";

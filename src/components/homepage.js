@@ -1,6 +1,5 @@
 import React from "react";
-import "./homepage.scss";
-import { Container, Header, Button } from 'semantic-ui-react'
+import { Container, Header } from 'semantic-ui-react'
 import Topics from "./topics";
 import Navigation from "./navigation";
 

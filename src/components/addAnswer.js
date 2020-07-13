@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react";
-import { Form, Button, Comment } from 'semantic-ui-react';
+import React, { useState } from "react";
+import { Form, Button } from 'semantic-ui-react';
 import * as authService from "../services/auth.service";
 
 const AddAnswer = (props) => {

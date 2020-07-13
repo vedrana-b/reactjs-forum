@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Container, Header } from 'semantic-ui-react'
 import AddAnswer from "./addAnswer";
-import "./homepage.scss";
 import topicService from "../services/topic.service"
 import AnswerList from "./answer-list";
 import Navigation from "./navigation";
@@ -40,13 +39,14 @@ const TopicPage = (props) => {
                 <div style={{ backgroundColor: addBackground() }} className="homepage__title">
                     <Header as="h2" inverted content={topic.title}></Header>
                 </div>
-                <Container className="grid-container">
-                    <div className="topic-page">
-                        <AnswerList answers={topic.answers} />
-                        <AddAnswer onAddAnswer={addAnswerHandler} />
-                    </div>
-                </Container>
+
             </div>
+            <Container className="grid-container">
+                <div className="topic-page">
+                    <AnswerList answers={topic.answers} />
+                    <AddAnswer onAddAnswer={addAnswerHandler} />
+                </div>
+            </Container>
         </Container>
     );
 }
