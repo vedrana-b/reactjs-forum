@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-forum/static/css/main.50376ba7.chunk.css",
-    "main.js": "/react-forum/static/js/main.bc4e0457.chunk.js",
-    "main.js.map": "/react-forum/static/js/main.bc4e0457.chunk.js.map",
-    "runtime-main.js": "/react-forum/static/js/runtime-main.3cf18225.js",
-    "runtime-main.js.map": "/react-forum/static/js/runtime-main.3cf18225.js.map",
-    "static/css/2.af13c214.chunk.css": "/react-forum/static/css/2.af13c214.chunk.css",
-    "static/js/2.fe1fcf05.chunk.js": "/react-forum/static/js/2.fe1fcf05.chunk.js",
-    "static/js/2.fe1fcf05.chunk.js.map": "/react-forum/static/js/2.fe1fcf05.chunk.js.map",
-    "index.html": "/react-forum/index.html",
-    "precache-manifest.6b290ad1e6191a64788e720d9230d30c.js": "/react-forum/precache-manifest.6b290ad1e6191a64788e720d9230d30c.js",
-    "service-worker.js": "/react-forum/service-worker.js",
-    "static/css/2.af13c214.chunk.css.map": "/react-forum/static/css/2.af13c214.chunk.css.map",
-    "static/css/main.50376ba7.chunk.css.map": "/react-forum/static/css/main.50376ba7.chunk.css.map",
-    "static/js/2.fe1fcf05.chunk.js.LICENSE.txt": "/react-forum/static/js/2.fe1fcf05.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/react-forum/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/r-forum/static/css/main.50376ba7.chunk.css",
+    "main.js": "/r-forum/static/js/main.9c8c6669.chunk.js",
+    "main.js.map": "/r-forum/static/js/main.9c8c6669.chunk.js.map",
+    "runtime-main.js": "/r-forum/static/js/runtime-main.55c01fee.js",
+    "runtime-main.js.map": "/r-forum/static/js/runtime-main.55c01fee.js.map",
+    "static/css/2.fdeaa007.chunk.css": "/r-forum/static/css/2.fdeaa007.chunk.css",
+    "static/js/2.04417b5b.chunk.js": "/r-forum/static/js/2.04417b5b.chunk.js",
+    "static/js/2.04417b5b.chunk.js.map": "/r-forum/static/js/2.04417b5b.chunk.js.map",
+    "index.html": "/r-forum/index.html",
+    "precache-manifest.a1a99b4debab985754a6660245dd163a.js": "/r-forum/precache-manifest.a1a99b4debab985754a6660245dd163a.js",
+    "service-worker.js": "/r-forum/service-worker.js",
+    "static/css/2.fdeaa007.chunk.css.map": "/r-forum/static/css/2.fdeaa007.chunk.css.map",
+    "static/css/main.50376ba7.chunk.css.map": "/r-forum/static/css/main.50376ba7.chunk.css.map",
+    "static/js/2.04417b5b.chunk.js.LICENSE.txt": "/r-forum/static/js/2.04417b5b.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/r-forum/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.3cf18225.js",
-    "static/css/2.af13c214.chunk.css",
-    "static/js/2.fe1fcf05.chunk.js",
+    "static/js/runtime-main.55c01fee.js",
+    "static/css/2.fdeaa007.chunk.css",
+    "static/js/2.04417b5b.chunk.js",
     "static/css/main.50376ba7.chunk.css",
-    "static/js/main.bc4e0457.chunk.js"
+    "static/js/main.9c8c6669.chunk.js"
   ]
 }
