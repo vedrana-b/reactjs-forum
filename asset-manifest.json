@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/r-forum/static/css/main.5f361e03.chunk.css",
+    "main.js": "/r-forum/static/js/main.1612301a.chunk.js",
+    "main.js.map": "/r-forum/static/js/main.1612301a.chunk.js.map",
+    "runtime-main.js": "/r-forum/static/js/runtime-main.03d19012.js",
+    "runtime-main.js.map": "/r-forum/static/js/runtime-main.03d19012.js.map",
+    "static/js/2.763b34e5.chunk.js": "/r-forum/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/r-forum/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/r-forum/index.html",
+    "precache-manifest.7933c8bb77c1f111a41d85d3cf59d0f1.js": "/r-forum/precache-manifest.7933c8bb77c1f111a41d85d3cf59d0f1.js",
+    "service-worker.js": "/r-forum/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/r-forum/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/r-forum/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/r-forum/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03d19012.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1612301a.chunk.js"
+  ]
+}
