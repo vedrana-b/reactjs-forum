@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/r-forum/static/css/main.50376ba7.chunk.css",
-    "main.js": "/r-forum/static/js/main.7ad9f67d.chunk.js",
-    "main.js.map": "/r-forum/static/js/main.7ad9f67d.chunk.js.map",
+    "main.js": "/r-forum/static/js/main.98181426.chunk.js",
+    "main.js.map": "/r-forum/static/js/main.98181426.chunk.js.map",
     "runtime-main.js": "/r-forum/static/js/runtime-main.55c01fee.js",
     "runtime-main.js.map": "/r-forum/static/js/runtime-main.55c01fee.js.map",
     "static/css/2.fdeaa007.chunk.css": "/r-forum/static/css/2.fdeaa007.chunk.css",
     "static/js/2.04417b5b.chunk.js": "/r-forum/static/js/2.04417b5b.chunk.js",
     "static/js/2.04417b5b.chunk.js.map": "/r-forum/static/js/2.04417b5b.chunk.js.map",
     "index.html": "/r-forum/index.html",
-    "precache-manifest.39e3478109d897cf3fe2706223a401e1.js": "/r-forum/precache-manifest.39e3478109d897cf3fe2706223a401e1.js",
+    "precache-manifest.2d445670216d608d37a0b362defac35b.js": "/r-forum/precache-manifest.2d445670216d608d37a0b362defac35b.js",
     "service-worker.js": "/r-forum/service-worker.js",
     "static/css/2.fdeaa007.chunk.css.map": "/r-forum/static/css/2.fdeaa007.chunk.css.map",
     "static/css/main.50376ba7.chunk.css.map": "/r-forum/static/css/main.50376ba7.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.fdeaa007.chunk.css",
     "static/js/2.04417b5b.chunk.js",
     "static/css/main.50376ba7.chunk.css",
-    "static/js/main.7ad9f67d.chunk.js"
+    "static/js/main.98181426.chunk.js"
   ]
 }

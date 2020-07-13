@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e6d836c99248aad01a2debf5b2fd945",
+    "revision": "02177a2b4fbb8fea43eb22199dbd567f",
     "url": "/r-forum/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/r-forum/static/css/2.fdeaa007.chunk.css"
   },
   {
-    "revision": "94e33ab8a8dd837fc2e6",
+    "revision": "13aa722049fcae79127c",
     "url": "/r-forum/static/css/main.50376ba7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/r-forum/static/js/2.04417b5b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "94e33ab8a8dd837fc2e6",
-    "url": "/r-forum/static/js/main.7ad9f67d.chunk.js"
+    "revision": "13aa722049fcae79127c",
+    "url": "/r-forum/static/js/main.98181426.chunk.js"
   },
   {
     "revision": "9458c9dd9c2ddfb39f8f",
