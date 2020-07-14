@@ -1,7 +1,7 @@
 {
-  "name": "r-forum",
+  "name": "react-forum",
   "version": "0.1.0",
-  "homepage": "https://vedrana-b.github.io/r-forum/",
+  "homepage": "https://vedrana-b.github.io/reactjs-forum/",
   "private": true,
   "dependencies": {
     "@hapi/joi": "^17.1.1",

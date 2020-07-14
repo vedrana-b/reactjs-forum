@@ -59,7 +59,7 @@ export function isLoggedIn() {
 
 export function logout() {
     localStorage.removeItem('access_token');
-    return window.location.href = '/';
+    return window.location.href = process.env.PUBLIC_URL;
 }
 
 export function getUser() {

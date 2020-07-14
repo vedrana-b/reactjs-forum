@@ -41,7 +41,6 @@ const LogIn = (props) => {
             } else if (response.status === 404) {
                 setMessage({ ...message, login: { negative: true, content: 'User does not exist' } })
             }
-            console.log(user);
         });
     }
 
